@@ -3,9 +3,13 @@ Sreeram S Mallan
 Rinku Sara Chacho
 Varun Ajith
 Swati Krishna
+
+
 Monthly Expenditure Tracker
 18th July 2021
+
 Problem Statement
+
 Financial Well-being
 
 Financial well-being refers to helping people view, study their overall spend
@@ -17,20 +21,23 @@ Etc.
 Manoj is a millennial family man who, due to the COVID-19 pandemic is
 struggling to manage his family's expenses systematically. Provide a solution
 that helps him to juggle his accounts successfully.
+
 Solution
 Our solution to the problem is a monthly expenditure tracker, right now it is in a budding crude stage, but applying ML we can add recommendations on where to cut down expenditure.
 Right now, the user can view his expenditures in a Google Sheet
+
 GOALS
 Our main goal was to create a program that would be able to help people like Manoj with financial wellbeing.
 Our monthly expenditure tracker, keeps track of the user’s daily expenses, which enables the user to review his spending and cut back unnecessary expenditure.
+
 SPECIFICATIONS
-The user can,
-enter his expenditure in a timely manner.
+The user can enter his expenditure in a timely manner.
 The program compiles, the data in a daily manner into a Google sheet
 It displays the balance that the user has.
 
 Technology used
 We utilized the power of Python to create the program.
+
 Future of the program
 Right now the program is at a crude stage.
 Adding a proper GUI would enable it to be more user friendly.
